@@ -1,9 +1,7 @@
-# Fiqh Academy Next
+# منصة الفقه والتفقه الإسلامي - الإصدار الثاني
 
-## Project Vision
+## رؤية المشروع
 
-A next-generation educational platform built on a scalable, modular, and maintainable architecture.
+بناء منصة تعليمية احترافية قابلة للتوسع والتطوير لسنوات طويلة، تعتمد على هندسة برمجية منظمة، وهوية بصرية موحدة، وتجربة مستخدم متميزة، مع المحافظة على الاستقرار وسهولة الصيانة وجودة الأداء.
 
-The goal is to create a professional platform that can continue to evolve for many years while maintaining stability, simplicity, and high quality.
-
-## Core Principles
+## المبادئ الأساسية
