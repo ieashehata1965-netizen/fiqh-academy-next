@@ -1,2 +1,3 @@
-# fiqh-academy-next
-Next Generation Architecture for Fiqh Academy
+# Internal Audit Platform - Next
+
+الجيل القادم من منصة التدقيق الداخلي
